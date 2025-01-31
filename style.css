@@ -79,35 +79,35 @@ button {
 .one {
     width: 220px;
     height: 330px;
-    background-image: url("Images/d862855754cdbd4b9d24c66eda785d53.png");
+    background-image: url("/d862855754cdbd4b9d24c66eda785d53.png");
 
 }
 
 .two {
     width: 180px;
     height: 220px;
-    background-image: url("Images/357d5fe978ee8c2952f1ed90b1f13901.jpeg");
+    background-image: url("/357d5fe978ee8c2952f1ed90b1f13901.jpeg");
 
 }
 
 .tre {
     width: 180px;
     height: 130px;
-    background-image: url("Images/1eca818b4718b95a05d0458dc9a37868.png");
+    background-image: url("/1eca818b4718b95a05d0458dc9a37868.png");
 
 }
 
 .four {
     width: 180px;
     height: 220px;
-    background-image: url("Images/ff0b332b024099facc42d7f0185c275c.jpeg");
+    background-image: url("/ff0b332b024099facc42d7f0185c275c.jpeg");
 
 }
 
 .five {
     width: 220px;
     height: 330px;
-    background-image: url("Images/1bb8c48c3af3bfa568bfd2a57f77d758.png");
+    background-image: url("/1bb8c48c3af3bfa568bfd2a57f77d758.png");
 
 }
 
@@ -180,7 +180,7 @@ h3 {
     margin-top: 9px;
     margin-right: 5px;
 
-    background-image: url('Images/Group.png');
+    background-image: url('/Group.png');
 }
 
 .div_repeat {

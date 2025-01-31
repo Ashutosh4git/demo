@@ -100,14 +100,14 @@ button {
 .four {
     width: 180px;
     height: 220px;
-    background-image: url("/ff0b332b024099facc42d7f0185c275c.jpeg");
+    background-image: url("ff0b332b024099facc42d7f0185c275c.jpeg");
 
 }
 
 .five {
     width: 220px;
     height: 330px;
-    background-image: url("/1bb8c48c3af3bfa568bfd2a57f77d758.png");
+    background-image: url("1bb8c48c3af3bfa568bfd2a57f77d758.png");
 
 }
 
@@ -180,7 +180,7 @@ h3 {
     margin-top: 9px;
     margin-right: 5px;
 
-    background-image: url('/Group.png');
+    background-image: url('Group.png');
 }
 
 .div_repeat {
@@ -340,13 +340,13 @@ h3 {
 
 .prob_image {
 
-    background-image: url("Images/f14de3a8113b648e69916e423ef18388.png");
+    background-image: url("f14de3a8113b648e69916e423ef18388.png");
 }
 
 .solu_image {
     width: 450px;
     height: 410px;
-    background-image: url("Images/f2a617a43c3d53cfd717f0d3dcf57a31.png");
+    background-image: url("f2a617a43c3d53cfd717f0d3dcf57a31.png");
 }
 
 .btn_an_title {
@@ -387,19 +387,19 @@ h3 {
 }
 
 .im_one {
-    background-image: url("Images/28b30753ab651f48277b615b62badba9.jpeg");
+    background-image: url("28b30753ab651f48277b615b62badba9.jpeg");
 }
 
 .im_two {
-    background-image: url("Images/b27b14137507e45be3ae27efa3a930e9.jpeg");
+    background-image: url("b27b14137507e45be3ae27efa3a930e9.jpeg");
 }
 
 .im_tre {
-    background-image: url("Images/a2017c4ce45585947d9c117645222d38.jpeg");
+    background-image: url("a2017c4ce45585947d9c117645222d38.jpeg");
 }
 
 .im_four {
-    background-image: url("Images/34b923f4fe6b42ecdb77f764887938ef.jpeg");
+    background-image: url("34b923f4fe6b42ecdb77f764887938ef.jpeg");
 }
 
 .carousle_button {
@@ -464,7 +464,7 @@ h3 {
     background-color: #006CFF;
     border-radius: 20px;
     transition: all 0.5s ease-in-out;
-    background-image: url("Images/87211b06728fec5cfc3c92839a9df32d (1).jpeg");
+    background-image: url("87211b06728fec5cfc3c92839a9df32d (1).jpeg");
 
 }
 
@@ -536,7 +536,7 @@ h3 {
     height: 650px;
     background-color: bisque;
     border-radius: 20px;
-    background-image: url('Images/69a85190166f6b64e4774f6fb3bba15d.jpeg');
+    background-image: url('69a85190166f6b64e4774f6fb3bba15d.jpeg');
     margin-left: 30px;
 }
 
@@ -671,7 +671,7 @@ h3 {
     background-color: white;
     text-align: center;
     color: black;
-    background-image: url('Images/822d23e3ad184d076da02a0faf7d8557.png');
+    background-image: url('822d23e3ad184d076da02a0faf7d8557.png');
 }
 
 .feedbacks {
